@@ -10,6 +10,7 @@ function App() {
 
   return (
     <StarWarsState>
+      
   <Router>
     <Switch>
     <Route exact path='/' component={Home} />

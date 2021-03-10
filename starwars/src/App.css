@@ -58,3 +58,19 @@
   background-size: cover;
   height: 100px;
 }
+.content {
+	
+	text-align:center;
+
+}
+ 
+.content img {
+	vertical-align:middle;
+  width: 100%;
+  height: 450px;
+}
+.Navbar {
+  padding: 20px;
+  background: rgb(0, 162, 255);
+  color: white;
+}
